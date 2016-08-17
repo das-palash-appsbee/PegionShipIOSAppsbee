@@ -1,0 +1,21 @@
+PODS:
+  - Bolts (1.1.4)
+  - Facebook-iOS-SDK (3.17.0):
+    - Bolts
+  - SCFacebook (3.0):
+    - Facebook-iOS-SDK (~> 3.17.0)
+    - SDWebImage (~> 3.6)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+
+DEPENDENCIES:
+  - SCFacebook (~> 3.0)
+
+SPEC CHECKSUMS:
+  Bolts: f8e2f94edbf9fec7bb8de5ecaaa3aa6b7de6f64e
+  Facebook-iOS-SDK: edfd75144dd28ab1e1f62af1f061c74857128040
+  SCFacebook: 64556c1bd015d4ae3b054305dc00363dbde35ca1
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+
+COCOAPODS: 0.36.4
